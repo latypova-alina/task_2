@@ -31,7 +31,9 @@ Metrics/LineLength:
 
 Layout/EndAlignment:
   EnforcedStyleAlignWith: variable
-
+  SupportedStylesAlignWith:
+    - keyword
+    - variable
 
 Layout/AlignParameters:
   EnforcedStyle: with_fixed_indentation
