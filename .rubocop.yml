@@ -42,4 +42,4 @@ Layout/AlignParameters:
     - with_fixed_indentation
 
 Style/FrozenStringLiteralComment:
-  Enabled: false
+  Enabled: true
