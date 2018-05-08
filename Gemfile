@@ -5,6 +5,7 @@ source "https://rubygems.org"
 ruby "2.5.0"
 
 group :development do
+  gem "byebug"
   gem "bundler-audit", require: false
   gem "rspec"
   gem "rubocop"
